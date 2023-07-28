@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "2d4d8846c962a313",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad74715372e6151d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a83b06b4280c17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4fe9cca002bebe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d5b9ffcc97986a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b438c2d206abdbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c4bac2be8f69603",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66376f333b6c5259",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "144881bafc694229",
+    "type": "split",
+    "children": [
+      {
+        "id": "add30cfa7492dff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670b384b645825c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2042a47040e20fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f166a272cc22317",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c38e35c1c2f5fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "3b438c2d206abdbe",
+  "lastOpenFiles": [
+    "knowledge_map.md",
+    "設計/デザイン/SOLID原則/SOLID原則.md",
+    "プログラミング/プログラミング.md",
+    "プログラミング/言語",
+    "設計/デザイン/SOLID原則/OCP：オープン・クローズの原則.md",
+    "設計/デザイン/デザイン.md",
+    "設計/設計.md",
+    "設計/デザイン/SOLID原則/SRP：単一責任の原則.md",
+    "設計/デザイン/SOLID原則/LSP：リスコフの置換原則.md",
+    "設計/デザイン/SOLID原則/ISP：インターフェース分離の原則.md",
+    "設計/デザイン/SOLID原則/DIP：依存関係逆転の原則.md",
+    "設計/デザイン/SOLID原則",
+    "設計/アーキテクチャ/アーキテクチャ.md",
+    "設計/モデリング/モデリング.md",
+    "設計/デザイン",
+    "設計/アーキテクチャ",
+    "設計/モデリング",
+    "要件定義/要件定義.md",
+    "コンピュータサイエンス/コンピュータサイエンス.md",
+    "インフラ/インフラ.md",
+    "要件定義",
+    "ビジネス",
+    "アルゴリズム",
+    "コンピュータサイエンス",
+    "インフラ"
+  ]
+}
